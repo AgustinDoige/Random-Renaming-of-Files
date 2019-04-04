@@ -44,6 +44,7 @@ def customSettingsMessage():
 			break
 		elif temp_re.lower() == 'n':
 			re = False
+			break
 		else:
 			pass
 
